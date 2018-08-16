@@ -26,6 +26,12 @@
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
     },
+	"repositories" : [
+		 {
+			"type" : "vcs",
+			"url" : "https://github.com/jalso/WidopHttpAdapterBundle.git"
+		}
+		],
     "autoload": {
         "psr-0": { "Widop\\GoogleAnalyticsBundle": "" }
     },
