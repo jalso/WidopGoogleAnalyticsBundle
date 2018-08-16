@@ -21,7 +21,7 @@
     "require": {
         "symfony/framework-bundle": "4.*",
         "dominium/google-analytics": "1.3",
-        "jalso/http-adapter-bundle": "1.*"
+        "jalso/http-adapter-bundle": "^1.3"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
